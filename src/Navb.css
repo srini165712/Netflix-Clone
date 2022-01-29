@@ -1,0 +1,22 @@
+.nav{
+position : fixed;
+width : 100%;
+display : flex;
+justify-content: space-between;
+padding-top : 5px;
+transition-timing-function: ease-in;
+transition : all 0.5s;
+}
+.nav_black{
+background : rgba(0, 0, 0, 0.801);
+}
+
+.nav_logo{
+    justify-content: space-between;
+    height : 50px;
+
+}
+.logo1{
+    height : 60px;
+    width:60px; 
+}
